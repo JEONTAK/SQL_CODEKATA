@@ -20,3 +20,12 @@
 - [DATETIME에서 DATE로 형 변환](CODEKATA/_18_DATETIME에서 DATE로 형 변환.SQL)
 - [흉부외과 또는 일반외과 의사 목록 출력하기](CODEKATA/_19_흉부외과 또는 일반외과 의사 목록 출력하기.SQL)
 - [가격이 제일 비싼 식품의 정보 출력하기](CODEKATA/_20_가격이 제일 비싼 식품의 정보 출력하기.SQL)
+- [이름이 없는 동물의 아이디]()
+- [조건에 맞는 회원수 구하기]()
+
+
+CODEKATA/_21_이름이 없는 동물의 아이디.SQL
+CODEKATA/_22_조건에 맞는 회원수 구하기.SQL
+CODEKATA/_23_중성화 여부 파악하기.SQL
+CODEKATA/_24_카테고리 별 상품 개수 구하기.SQL
+CODEKATA/_25_고양이와 개는 몇 마리 있을까.SQL
