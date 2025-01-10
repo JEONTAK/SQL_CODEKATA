@@ -1,0 +1,10 @@
+SELECT P.*
+FROM PLACES AS P
+         JOIN
+     (SELECT HOST_ID
+      FROM PLACES
+      GROUP BY HOST_ID
+      HAVING COUNT(*) >= 2) AS T
+     ON
+         P.HOST_ID = T.HOST_ID
+ORDER BY P.ID
